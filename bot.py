@@ -1,5 +1,5 @@
 responses = {
-    "hello": "Hey there! How can I assist you today?",
+    "hello": "Hey there! How can I assist you?",
     "hi": "Hello! What would you like to talk about?",
     "how are you?": "I'm just a bunch of code, but thanks for asking! How about you?",
     "what is ai?": "AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.",

@@ -3,7 +3,7 @@ import json
 places = []
 
 while True:
-    place = input("Enter a place (or 'q' to quit): ")
+    place = input("Enter a place   (or 'q' to quit): ")
     if place == 'q':
         break
     places.append(place)
